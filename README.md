@@ -1,2 +1,2 @@
-# Web-desing
+# Web-design
 landing Page
